@@ -1,7 +1,7 @@
 # Python Tutorial Notes
 
-A structured Python learning series written by a CSE student at CUET.
-Covers 60+ topics from variables and data types all the way to OOP,
+A structured Python learning series that
+covers 60+ topics from variables and data types all the way to OOP,
 PyQt5 GUI development, file handling, multithreading, and more.
 Each file is a standalone topic with clean tutorial comments explaining
 every concept as you go.
